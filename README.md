@@ -1,7 +1,14 @@
-# Custom-Server-Mock-Data
+# Custom Server Mock Data
 Simple Node custom server for mock data.
 
-## ¿What do know need to start server?
+## Description:
+
+This server is maked with jaosn-server library. 
+Reference Link 👇
+
+https://github.com/typicode/json-server 
+
+## ¿What do you need to start server?
 
 to install dependencies:
 
